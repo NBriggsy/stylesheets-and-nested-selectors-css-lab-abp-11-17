@@ -38,3 +38,8 @@ header h3 {
   float: left;
   font-size: 30px;
 }
+
+header h3 a {
+  color:#868e96;
+  text-decoration: none;
+}
